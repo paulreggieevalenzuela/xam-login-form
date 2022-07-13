@@ -1,3 +1,9 @@
+/**
+ * Notes:
+ * 
+ * The Table can be reusable
+ * The adding of new UserForm can also be separated then adding context/redux to get the set/get new data
+ */
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
